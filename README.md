@@ -13,5 +13,5 @@ The following features are yet planed. Feel free to request more.
 - Menu with most common options
 - One or two UI themes
 - Window management (upscaling, multiple resolutions)
-- Local and global leadboard system (Godot 3.1+ when more mbedTLS are exposed)
+- Local and global leadboard system (Godot 3.1+ when more mbedTLS APIs are exposed)
 - Supporting 2D and 3D games 
